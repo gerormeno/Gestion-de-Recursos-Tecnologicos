@@ -1,0 +1,61 @@
+C:\Users\User\Documents\GitHub\PPAI_GestionRT\Gestion Recursos Tecnológicos\bin\Debug\Gestion Recursos Tecnologicos.exe.config
+C:\Users\User\Documents\GitHub\PPAI_GestionRT\Gestion Recursos Tecnológicos\bin\Debug\Gestion Recursos Tecnologicos.exe
+C:\Users\User\Documents\GitHub\PPAI_GestionRT\Gestion Recursos Tecnológicos\bin\Debug\Gestion Recursos Tecnologicos.pdb
+C:\Users\User\Documents\GitHub\PPAI_GestionRT\Gestion Recursos Tecnológicos\obj\Debug\Gestion Recursos Tecnológicos.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\PPAI_GestionRT\Gestion Recursos Tecnológicos\obj\Debug\Gestion_Recursos_Tecnológicos.PantallaRegistrarMantenimiento.resources
+C:\Users\User\Documents\GitHub\PPAI_GestionRT\Gestion Recursos Tecnológicos\obj\Debug\Gestion_Recursos_Tecnológicos.Properties.Resources.resources
+C:\Users\User\Documents\GitHub\PPAI_GestionRT\Gestion Recursos Tecnológicos\obj\Debug\Gestion Recursos Tecnológicos.csproj.GenerateResource.cache
+C:\Users\User\Documents\GitHub\PPAI_GestionRT\Gestion Recursos Tecnológicos\obj\Debug\Gestion Recursos Tecnológicos.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\PPAI_GestionRT\Gestion Recursos Tecnológicos\obj\Debug\Gestion Recursos Tecnologicos.exe
+C:\Users\User\Documents\GitHub\PPAI_GestionRT\Gestion Recursos Tecnológicos\obj\Debug\Gestion Recursos Tecnologicos.pdb
+C:\Users\Andrés\Facu\3.DSI\Practico\0.PPAI\PPAI_GestionRT\Gestion Recursos Tecnológicos\bin\Debug\Gestion Recursos Tecnologicos.exe.config
+C:\Users\Andrés\Facu\3.DSI\Practico\0.PPAI\PPAI_GestionRT\Gestion Recursos Tecnológicos\bin\Debug\Gestion Recursos Tecnologicos.exe
+C:\Users\Andrés\Facu\3.DSI\Practico\0.PPAI\PPAI_GestionRT\Gestion Recursos Tecnológicos\bin\Debug\Gestion Recursos Tecnologicos.pdb
+C:\Users\Andrés\Facu\3.DSI\Practico\0.PPAI\PPAI_GestionRT\Gestion Recursos Tecnológicos\obj\Debug\Gestion Recursos Tecnológicos.csproj.AssemblyReference.cache
+C:\Users\Andrés\Facu\3.DSI\Practico\0.PPAI\PPAI_GestionRT\Gestion Recursos Tecnológicos\obj\Debug\Gestion_Recursos_Tecnológicos.PantallaRegistrarMantenimiento.resources
+C:\Users\Andrés\Facu\3.DSI\Practico\0.PPAI\PPAI_GestionRT\Gestion Recursos Tecnológicos\obj\Debug\Gestion_Recursos_Tecnológicos.Properties.Resources.resources
+C:\Users\Andrés\Facu\3.DSI\Practico\0.PPAI\PPAI_GestionRT\Gestion Recursos Tecnológicos\obj\Debug\Gestion Recursos Tecnológicos.csproj.GenerateResource.cache
+C:\Users\Andrés\Facu\3.DSI\Practico\0.PPAI\PPAI_GestionRT\Gestion Recursos Tecnológicos\obj\Debug\Gestion Recursos Tecnológicos.csproj.CoreCompileInputs.cache
+C:\Users\Andrés\Facu\3.DSI\Practico\0.PPAI\PPAI_GestionRT\Gestion Recursos Tecnológicos\obj\Debug\Gestion Recursos Tecnologicos.exe
+C:\Users\Andrés\Facu\3.DSI\Practico\0.PPAI\PPAI_GestionRT\Gestion Recursos Tecnológicos\obj\Debug\Gestion Recursos Tecnologicos.pdb
+C:\Users\User\Documents\GitHub\PPAI_GestionRT\Gestion Recursos Tecnológicosv1\obj\Debug\Gestion Recursos Tecnológicos.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\PPAI_GestionRT\Gestion Recursos Tecnológicosv1\obj\Debug\Gestion_Recursos_Tecnológicos.PantallaRegistrarMantenimiento.resources
+C:\Users\User\Documents\GitHub\PPAI_GestionRT\Gestion Recursos Tecnológicosv1\obj\Debug\Gestion_Recursos_Tecnológicos.Properties.Resources.resources
+C:\Users\User\Documents\GitHub\PPAI_GestionRT\Gestion Recursos Tecnológicosv1\obj\Debug\Gestion Recursos Tecnológicos.csproj.GenerateResource.cache
+C:\Users\User\Documents\GitHub\PPAI_GestionRT\Gestion Recursos Tecnológicosv1\obj\Debug\Gestion Recursos Tecnológicos.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\PPAI_GestionRT\Gestion Recursos Tecnológicosv1\obj\Debug\Gestion Recursos Tecnologicos.exe
+C:\Users\User\Documents\GitHub\PPAI_GestionRT\Gestion Recursos Tecnológicosv1\obj\Debug\Gestion Recursos Tecnologicos.pdb
+C:\Users\User\Documents\GitHub\PPAI_GestionRT\Gestion Recursos Tecnológicosv1\bin\Debug\Gestion Recursos Tecnologicos.exe.config
+C:\Users\User\Documents\GitHub\PPAI_GestionRT\Gestion Recursos Tecnológicosv1\bin\Debug\Gestion Recursos Tecnologicos.exe
+C:\Users\User\Documents\GitHub\PPAI_GestionRT\Gestion Recursos Tecnológicosv1\bin\Debug\Gestion Recursos Tecnologicos.pdb
+C:\Users\Andrés\Facu\3.DSI\Practico\0.PPAI\PPAI_GestionRT\Gestion Recursos Tecnológicosv1\bin\Debug\Gestion Recursos Tecnologicos.exe.config
+C:\Users\Andrés\Facu\3.DSI\Practico\0.PPAI\PPAI_GestionRT\Gestion Recursos Tecnológicosv1\bin\Debug\Gestion Recursos Tecnologicos.exe
+C:\Users\Andrés\Facu\3.DSI\Practico\0.PPAI\PPAI_GestionRT\Gestion Recursos Tecnológicosv1\bin\Debug\Gestion Recursos Tecnologicos.pdb
+C:\Users\Andrés\Facu\3.DSI\Practico\0.PPAI\PPAI_GestionRT\Gestion Recursos Tecnológicosv1\obj\Debug\Gestion Recursos Tecnológicos.csproj.AssemblyReference.cache
+C:\Users\Andrés\Facu\3.DSI\Practico\0.PPAI\PPAI_GestionRT\Gestion Recursos Tecnológicosv1\obj\Debug\Gestion_Recursos_Tecnológicos.PantallaRegistrarMantenimiento.resources
+C:\Users\Andrés\Facu\3.DSI\Practico\0.PPAI\PPAI_GestionRT\Gestion Recursos Tecnológicosv1\obj\Debug\Gestion_Recursos_Tecnológicos.Properties.Resources.resources
+C:\Users\Andrés\Facu\3.DSI\Practico\0.PPAI\PPAI_GestionRT\Gestion Recursos Tecnológicosv1\obj\Debug\Gestion Recursos Tecnológicos.csproj.GenerateResource.cache
+C:\Users\Andrés\Facu\3.DSI\Practico\0.PPAI\PPAI_GestionRT\Gestion Recursos Tecnológicosv1\obj\Debug\Gestion Recursos Tecnológicos.csproj.CoreCompileInputs.cache
+C:\Users\Andrés\Facu\3.DSI\Practico\0.PPAI\PPAI_GestionRT\Gestion Recursos Tecnológicosv1\obj\Debug\Gestion Recursos Tecnologicos.exe
+C:\Users\Andrés\Facu\3.DSI\Practico\0.PPAI\PPAI_GestionRT\Gestion Recursos Tecnológicosv1\obj\Debug\Gestion Recursos Tecnologicos.pdb
+C:\Users\User\OneDrive\Documentos\GitHub\PPAI_GestionRT\Gestion Recursos Tecnológicosv1\bin\Debug\Gestion Recursos Tecnologicos.exe.config
+C:\Users\User\OneDrive\Documentos\GitHub\PPAI_GestionRT\Gestion Recursos Tecnológicosv1\bin\Debug\Gestion Recursos Tecnologicos.exe
+C:\Users\User\OneDrive\Documentos\GitHub\PPAI_GestionRT\Gestion Recursos Tecnológicosv1\bin\Debug\Gestion Recursos Tecnologicos.pdb
+C:\Users\User\OneDrive\Documentos\GitHub\PPAI_GestionRT\Gestion Recursos Tecnológicosv1\obj\Debug\Gestion Recursos Tecnológicos.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Documentos\GitHub\PPAI_GestionRT\Gestion Recursos Tecnológicosv1\obj\Debug\Gestion_Recursos_Tecnológicos.PantallaRegistrarMantenimiento.resources
+C:\Users\User\OneDrive\Documentos\GitHub\PPAI_GestionRT\Gestion Recursos Tecnológicosv1\obj\Debug\Gestion_Recursos_Tecnológicos.Properties.Resources.resources
+C:\Users\User\OneDrive\Documentos\GitHub\PPAI_GestionRT\Gestion Recursos Tecnológicosv1\obj\Debug\Gestion Recursos Tecnológicos.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Documentos\GitHub\PPAI_GestionRT\Gestion Recursos Tecnológicosv1\obj\Debug\Gestion Recursos Tecnológicos.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documentos\GitHub\PPAI_GestionRT\Gestion Recursos Tecnológicosv1\obj\Debug\Gestion Recursos Tecnologicos.exe
+C:\Users\User\OneDrive\Documentos\GitHub\PPAI_GestionRT\Gestion Recursos Tecnológicosv1\obj\Debug\Gestion Recursos Tecnologicos.pdb
+D:\Projects\code\aaa_GIT\PPAI_GestionRT\Gestion Recursos Tecnológicosv1\bin\Debug\Gestion Recursos Tecnologicos.exe.config
+D:\Projects\code\aaa_GIT\PPAI_GestionRT\Gestion Recursos Tecnológicosv1\bin\Debug\Gestion Recursos Tecnologicos.exe
+D:\Projects\code\aaa_GIT\PPAI_GestionRT\Gestion Recursos Tecnológicosv1\bin\Debug\Gestion Recursos Tecnologicos.pdb
+D:\Projects\code\aaa_GIT\PPAI_GestionRT\Gestion Recursos Tecnológicosv1\obj\Debug\Gestion Recursos Tecnológicos.csprojAssemblyReference.cache
+D:\Projects\code\aaa_GIT\PPAI_GestionRT\Gestion Recursos Tecnológicosv1\obj\Debug\Gestion_Recursos_Tecnológicos.PantallaRegistrarMantenimiento.resources
+D:\Projects\code\aaa_GIT\PPAI_GestionRT\Gestion Recursos Tecnológicosv1\obj\Debug\Gestion_Recursos_Tecnológicos.Properties.Resources.resources
+D:\Projects\code\aaa_GIT\PPAI_GestionRT\Gestion Recursos Tecnológicosv1\obj\Debug\Gestion Recursos Tecnológicos.csproj.GenerateResource.cache
+D:\Projects\code\aaa_GIT\PPAI_GestionRT\Gestion Recursos Tecnológicosv1\obj\Debug\Gestion Recursos Tecnológicos.csproj.CoreCompileInputs.cache
+D:\Projects\code\aaa_GIT\PPAI_GestionRT\Gestion Recursos Tecnológicosv1\obj\Debug\Gestion Recursos Tecnologicos.exe
+D:\Projects\code\aaa_GIT\PPAI_GestionRT\Gestion Recursos Tecnológicosv1\obj\Debug\Gestion Recursos Tecnologicos.pdb
+C:\Users\User\Documents\GitHub\PPAI_GestionRT\Gestion Recursos Tecnológicosv1\obj\Debug\Gestion_Recursos_Tecnológicos.CapaPresentacion.MenuPrincipal.resources

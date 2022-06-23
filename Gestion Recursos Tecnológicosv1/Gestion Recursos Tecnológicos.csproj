@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{67B5A7C2-95F5-4E50-A50A-E312EFAFD40E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Gestion_Recursos_Tecnológicos</RootNamespace>
+    <AssemblyName>Gestion Recursos Tecnologicos</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CapaPersistencia\AD_AsignacionCientificoDelCI.cs" />
+    <Compile Include="CapaPersistencia\AD_AsignacionResponsableTecnicoRT.cs" />
+    <Compile Include="CapaPersistencia\AD_CambioEstadoRT.cs" />
+    <Compile Include="CapaPersistencia\AD_CambioEstadoTurno.cs" />
+    <Compile Include="CapaPersistencia\AD_Estado.cs" />
+    <Compile Include="CapaPersistencia\AD_Mantenimiento.cs" />
+    <Compile Include="CapaPersistencia\AD_Marca.cs" />
+    <Compile Include="CapaPersistencia\AD_Modelo.cs" />
+    <Compile Include="CapaPersistencia\AD_PersonalCientifico.cs" />
+    <Compile Include="CapaPersistencia\AD_RecursoTecnologico.cs" />
+    <Compile Include="CapaPersistencia\AD_TipoRecursoTecnologico.cs" />
+    <Compile Include="CapaPersistencia\AD_Turno.cs" />
+    <Compile Include="CapaPersistencia\GestorDeDatos.cs" />
+    <Compile Include="CapaPersistencia\AD_Sesion.cs" />
+    <Compile Include="CapaPersistencia\AD_Usuario.cs" />
+    <Compile Include="CapaLogicaNegocio\AsignacionCientificoDelCI.cs" />
+    <Compile Include="CapaLogicaNegocio\AsignacionResponsableTecnicoRT.cs" />
+    <Compile Include="CapaLogicaNegocio\CambioEstadoRT.cs" />
+    <Compile Include="CapaLogicaNegocio\CambioEstadoTurno.cs" />
+    <Compile Include="CapaLogicaNegocio\Estado.cs" />
+    <Compile Include="CapaLogicaNegocio\GestorRegistrarMantenimiento.cs" />
+    <Compile Include="CapaLogicaNegocio\Mantenimiento.cs" />
+    <Compile Include="CapaLogicaNegocio\Marca.cs" />
+    <Compile Include="CapaLogicaNegocio\Modelo.cs" />
+    <Compile Include="CapaLogicaNegocio\PersonalCientifico.cs" />
+    <Compile Include="CapaLogicaNegocio\RecursoTecnologico.cs" />
+    <Compile Include="CapaLogicaNegocio\Sesion.cs" />
+    <Compile Include="CapaLogicaNegocio\TipoRecursoTecnologico.cs" />
+    <Compile Include="CapaLogicaNegocio\Turno.cs" />
+    <Compile Include="CapaLogicaNegocio\Usuario.cs" />
+    <Compile Include="CapaPresentacion\MenuPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\MenuPrincipal.Designer.cs">
+      <DependentUpon>MenuPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CapaPresentacion\PantallaRegistrarMantenimiento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\PantallaRegistrarMantenimiento.Designer.cs">
+      <DependentUpon>PantallaRegistrarMantenimiento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="CapaPresentacion\MenuPrincipal.resx">
+      <DependentUpon>MenuPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\PantallaRegistrarMantenimiento.resx">
+      <DependentUpon>PantallaRegistrarMantenimiento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo 4096.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo 512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo 128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo 256.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
