@@ -34,7 +34,6 @@ namespace Gestion_Recursos_Tecnológicos.CapaPresentacion
             this.btnSalir = new System.Windows.Forms.Button();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.label1 = new System.Windows.Forms.Label();
-            this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
@@ -88,17 +87,6 @@ namespace Gestion_Recursos_Tecnológicos.CapaPresentacion
             this.label1.TabIndex = 3;
             this.label1.Text = "Gestión de Recursos Tecnológicos";
             // 
-            // label2
-            // 
-            this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Bahnschrift", 22F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.ForeColor = System.Drawing.Color.White;
-            this.label2.Location = new System.Drawing.Point(336, 319);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(119, 36);
-            this.label2.TabIndex = 4;
-            this.label2.Text = "Grupo 6";
-            // 
             // label3
             // 
             this.label3.AutoSize = true;
@@ -129,7 +117,6 @@ namespace Gestion_Recursos_Tecnológicos.CapaPresentacion
             this.ClientSize = new System.Drawing.Size(800, 631);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
-            this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.btnSalir);
@@ -152,7 +139,6 @@ namespace Gestion_Recursos_Tecnológicos.CapaPresentacion
         private System.Windows.Forms.Button btnSalir;
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label4;
     }
